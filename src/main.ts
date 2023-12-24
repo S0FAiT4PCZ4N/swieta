@@ -10,5 +10,5 @@ setInterval(() => {
         swietadiv!.innerHTML = temptext + letter;
         idx++;
     }
-}, 1e3)
+}, 100)
 
